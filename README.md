@@ -132,4 +132,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Contact
 
 Project Maintainer - [0011Ashwin](https://github.com/0011Ashwin)
-Project Link: [https://github.com/0011Ashwin/Self-healing-RAG](https://github.com/0011Ashwin/Self-healing-RAG)
+Project Link: [https://github.com/0011Ashwin/Self-Healing-RAG-with-Local-Ollama-Models](https://github.com/0011Ashwin/Self-Healing-RAG-with-Local-Ollama-Models)

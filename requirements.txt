@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-groq
+langchain-chroma
+chromadb
+python-dotenv
+pypdf
+tiktoken
+langchain-ollama

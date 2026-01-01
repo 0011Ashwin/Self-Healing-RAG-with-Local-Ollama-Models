@@ -1,0 +1,7 @@
+2025-12-18 11:31:00,590 - RAG_System - INFO - Logging initialized. Writing to D:\Self-healing-RAG\logs\run_20251218_113100.log
+2025-12-18 11:31:00,590 - RAG_System - INFO - --- Self-Healing RAG System Started ---
+2025-12-18 11:31:32,323 - RAG_System - INFO - Processing query: What is seaborn and what is common command use in seaborn librarise ?
+2025-12-18 11:33:17,146 - RAG_System - INFO - Answer generated successfully.
+2025-12-18 11:34:05,160 - RAG_System - INFO - Processing query: quite
+2025-12-18 11:34:45,437 - RAG_System - INFO - Answer generated successfully.
+2025-12-18 11:34:59,857 - RAG_System - INFO - User requested exit.

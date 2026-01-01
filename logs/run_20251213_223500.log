@@ -1,0 +1,7 @@
+2025-12-13 22:35:00,584 - RAG_System - INFO - Logging initialized. Writing to D:\Self-healing-RAG\logs\run_20251213_223500.log
+2025-12-13 22:35:00,584 - RAG_System - INFO - --- Self-Healing RAG System Started ---
+2025-12-13 22:35:30,651 - RAG_System - INFO - Processing query: what is self healing RAG?
+2025-12-13 22:36:50,950 - RAG_System - INFO - Answer generated successfully.
+2025-12-13 22:37:47,887 - RAG_System - INFO - Processing query: quite
+2025-12-13 22:38:29,787 - RAG_System - INFO - Answer generated successfully.
+2025-12-13 22:38:41,887 - RAG_System - INFO - User requested exit.

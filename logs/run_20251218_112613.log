@@ -1,0 +1,9 @@
+2025-12-18 11:26:13,951 - RAG_System - INFO - Logging initialized. Writing to D:\Self-healing-RAG\logs\run_20251218_112613.log
+2025-12-18 11:26:13,951 - RAG_System - INFO - --- Self-Healing RAG System Started ---
+2025-12-18 11:26:32,100 - RAG_System - INFO - Processing query: what is seaborn ?
+2025-12-18 11:27:15,377 - RAG_System - INFO - Answer generated successfully.
+2025-12-18 11:28:12,569 - RAG_System - INFO - Processing query: In data folder i gave seaborn_cheat_sheet read it and give me over-view?
+2025-12-18 11:28:26,344 - RAG_System - INFO - Answer generated successfully.
+2025-12-18 11:29:04,774 - RAG_System - INFO - Processing query: give me top command that commonly use in seaborn?
+2025-12-18 11:29:20,151 - RAG_System - INFO - Answer generated successfully.
+2025-12-18 11:30:18,245 - RAG_System - INFO - User requested exit.

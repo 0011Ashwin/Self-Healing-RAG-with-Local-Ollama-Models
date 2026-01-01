@@ -1,0 +1,6 @@
+2025-12-13 22:28:31,087 - RAG_System - INFO - Logging initialized. Writing to D:\Self-healing-RAG\logs\run_20251213_222831.log
+2025-12-13 22:28:31,087 - RAG_System - INFO - --- Self-Healing RAG System Started ---
+2025-12-13 22:28:31,088 - RAG_System - WARNING - System Startup: VectorDB not found. It will be created on first query if needed.
+2025-12-13 22:28:40,817 - RAG_System - INFO - Processing query: What is this project about?
+2025-12-13 22:28:40,817 - RAG_System - WARNING - Issue Detected: Vector DB missing. triggering self-healing...
+2025-12-13 22:30:14,544 - RAG_System - INFO - Answer generated successfully.

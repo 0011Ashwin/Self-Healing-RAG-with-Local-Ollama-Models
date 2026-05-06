@@ -1,7 +1,7 @@
 import requests
 import json
 from requests.exceptions import RequestException, Timeout, ConnectionError
-
+# address split
 def format_address(address):
     if not address:
         return "N/A"
